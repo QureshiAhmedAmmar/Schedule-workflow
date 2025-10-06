@@ -8,5 +8,5 @@ jobs:
     runs-on: ubunto-latest
 
     steps:
-      -   name: Print Message 
-          run: echo "Schedule Workflow Executed"
+      - name: Print Message 
+        run: echo "Schedule Workflow Executed"
